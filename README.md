@@ -18,11 +18,11 @@ Este proyecto implementa una base de datos para administrar un sistema de reserv
 
 ---
 
-## 👤 Integrante
+## 👤 Integrantes
 
 **Facundo Alejo Barrio**
 - 📧 [alejo_facundo@yahoo.com](mailto:alejo_facundo@yahoo.com)
 - 📧 [alejofacundo58@gmail.com](mailto:alejofacundo58@gmail.com)
 
 **Jeremías Rodríguez Miranda**
-- 📧 [](mailto:)
+- 📧 [jeremias.rod.m@gmail.com](mailto:jeremias.rod.m@gmail.com)
